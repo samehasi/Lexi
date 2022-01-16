@@ -1,0 +1,16 @@
+*.db
+*.suo
+*.db-shm
+*.opendb
+*.exe
+*.pdb
+*.log
+*.obj
+*.tlog
+*.db-wal
+*.vc142.idb
+*.ipch
+*.recipe
+*.ilk
+*.idb
+*.aps
